@@ -1,0 +1,16 @@
+[
+{
+  "modid": "rubymod",
+  "name": "Ruby Mod",
+  "description": "This Mod adds Ruby Tools, Blocks, Mobs, Food and more!",
+  "version": "1.0",
+  "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2301223-ruby-mod-tools-items-weapons-and-more",
+  "updateUrl": "",
+  "authors": [ "megagamers" ],
+  "authorList": ["megagamers"],
+  "credits": "megagamers", "wire55"
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
