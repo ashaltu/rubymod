@@ -1,4 +1,5 @@
-rubymod
+Ruby Mod
 =======
 
-rubymod
+
+This Ruby Mod adds multiple Ruby Things!
